@@ -7,9 +7,9 @@
 
 | Платформа | Архив |
 | --- | --- |
-| Mac Apple Silicon, macOS 14+ | [Carrier_1.0.3.zip](https://github.com/dorian6996/iOS-Carrier-Switch/releases/download/v1.0.3/Carrier_1.0.3.zip) |
-| Mac Intel, macOS 13+ | [Carrier-Intel_1.0.3.zip](https://github.com/dorian6996/iOS-Carrier-Switch/releases/download/v1.0.3/Carrier-Intel_1.0.3.zip) |
-| Windows 10/11 x64 | [Carrier-Windows_1.0.3.zip](https://github.com/dorian6996/iOS-Carrier-Switch/releases/download/v1.0.3/Carrier-Windows_1.0.3.zip) |
+| Mac Apple Silicon, macOS 14+ | [Carrier_1.0.4.zip](https://github.com/dorian6996/iOS-Carrier-Switch/releases/download/v1.0.4/Carrier_1.0.4.zip) |
+| Mac Intel, macOS 13+ | [Carrier-Intel_1.0.4.zip](https://github.com/dorian6996/iOS-Carrier-Switch/releases/download/v1.0.4/Carrier-Intel_1.0.4.zip) |
+| Windows 10/11 x64 | [Carrier-Windows_1.0.4.zip](https://github.com/dorian6996/iOS-Carrier-Switch/releases/download/v1.0.4/Carrier-Windows_1.0.4.zip) |
 
 ## Установка и запуск
 
